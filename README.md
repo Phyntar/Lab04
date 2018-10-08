@@ -1,6 +1,6 @@
 # Lab04
 
-# Worked with Carlton wilcox, Will Kirkpatrick
+# Worked with Carlton Wilcox, Will Kirkpatrick, Matt McMenamin, James Schuchardt
 
 1)if you use fill_vector twice it adds in 20 random numbers instead of just 10.
 
