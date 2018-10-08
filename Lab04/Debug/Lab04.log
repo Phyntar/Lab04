@@ -1,0 +1,7 @@
+﻿  VectorDriver.cpp
+c:\users\compu\downloads\vectordriver.h(26): warning C4244: '=': conversion from 'ulong' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=short
+          ]
+  Lab04.vcxproj -> C:\Users\Compu\OneDrive\School\COSC 2030\Lab04\Lab04\Debug\Lab04.exe
