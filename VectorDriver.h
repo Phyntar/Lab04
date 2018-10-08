@@ -95,6 +95,7 @@ bool is_present(const vector<short> &data, short value)
 	return false;
 }
 // TODO: implement std::sort function
+// vector_sort sorts all the values in the vector from smallest to largest
 
 void vector_sort(vector<short> &data)
 {
