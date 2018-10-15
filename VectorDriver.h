@@ -1,4 +1,4 @@
-/* File: VectorDriver.cpp
+/* File: VectorDriver.h
  * Athr: Dimitri Zarzhitsky
  * Date: October 16, 2002
  *
